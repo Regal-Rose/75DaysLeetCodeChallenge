@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0238-product-of-array-except-self](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
