@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
@@ -25,17 +26,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
