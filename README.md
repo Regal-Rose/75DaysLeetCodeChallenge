@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
 | ------- |
