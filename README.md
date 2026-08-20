@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
+| [2678-number-of-senior-citizens](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2678-number-of-senior-citizens](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 ## Sorting
 |  |
