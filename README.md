@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2678-number-of-senior-citizens](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/2678-number-of-senior-citizens) |
