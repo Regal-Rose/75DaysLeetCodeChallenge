@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Regal-Rose/75DaysLeetCodeChallenge/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
